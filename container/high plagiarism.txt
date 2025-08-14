@@ -1,0 +1,48 @@
+
+🔴 PROJECT 1 — HIGH PLAGIARISM VERSION (based on the first project)
+
+Abstract
+
+Robotics is a branch of engineering and science that involves the conception, design, manufacture, and operation of robots. It integrates multiple disciplines, including mechanical engineering, electrical engineering, and computer science. Over the decades, robotics has revolutionized industries, making processes faster, more precise, and cost-effective. This project examines the basic concepts of robotics, its development through history, its diverse applications, and the significant impact it will have on the future of society and technology.
+
+
+---
+
+Introduction
+
+Robotics comes from the term “robot,” which was first coined by the Czech writer Karel Čapek in his 1921 play R.U.R. (Rossum’s Universal Robots). Robotics is defined as the science and technology behind the design, construction, and application of robots.
+
+Historically, robots were created to perform monotonous or dangerous tasks that humans could not or did not want to do. With time, they evolved into complex machines capable of performing advanced operations. Robots are now indispensable in manufacturing, where they assemble vehicles and electronics; in healthcare, where surgical robots enable minimally invasive procedures; and in space exploration, where robotic rovers like NASA’s Curiosity and Perseverance have expanded human understanding of Mars.
+
+The merging of robotics with artificial intelligence is leading to a new age of machines that are not only automated but also adaptive and intelligent, further blurring the line between human and machine work.
+
+
+---
+
+Conclusion
+
+From industrial robots on factory floors to AI-driven assistants in research labs, robotics has become an essential part of modern life. As technology progresses, robots will play an even greater role in everyday activities and global industries, continuing to transform the way people work, communicate, and solve complex challenges.
+
+
+---
+
+References
+
+Siciliano, B., & Khatib, O. (2016). Springer Handbook of Robotics. Springer.
+
+Craig, J. J. (2021). Introduction to Robotics: Mechanics and Control. Pearson.
+
+Murphy, R. (2019). Introduction to AI Robotics. MIT Press.
+
+International Federation of Robotics (2023). World Robotics Report.
+
+
+
+---
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+🟢 PROJECT 2 — LOW PLAGIARISM VERSION (fresh rewrite of the same project)
+
+
+---
+
+Abstract
+
+Robotics is an innovative field blending mechanics, electronics, and computer intelligence to create machines capable of carrying out tasks independently or with minimal human input. Its influence spans industries—from factories to hospitals to deep space missions—reshaping efficiency, safety, and innovation. This project explores how robotics has evolved, what it offers today, and how emerging technologies like artificial intelligence will shape the next wave of robotic development.
+
+
+---
+
+Introduction
+
+The idea of robots has shifted from ancient myths and mechanical curiosities to real, functional systems that assist humanity in countless ways. Instead of simply replacing human effort, modern robotics expands what humans can achieve by taking on dangerous, repetitive, or highly precise tasks.
+
+Robots are common in manufacturing, improving speed and consistency on assembly lines. In medicine, robotic arms enable surgeons to perform delicate operations with unprecedented accuracy. In space, rovers like NASA’s Perseverance act as explorers where humans cannot yet go.
+
+Now, artificial intelligence is merging with robotics, producing machines that can analyze information, adapt to their surroundings, and collaborate more naturally with humans. This evolution suggests a future where robots are not just tools but partners.
+
+
+---
+
+Conclusion
+
+Robotics has grown into a core part of modern innovation, moving far beyond factory automation to fields like healthcare, disaster response, and planetary exploration. With advances in AI and smart materials, robots are becoming more capable, raising both opportunities and questions about ethics and the nature of work in an increasingly automated world.
+
+
+---
+
+References
+
+Siciliano, B., & Khatib, O. (2016). Springer Handbook of Robotics. Springer.
+
+Bekey, G. A. (2005). Autonomous Robots: From Biological Inspiration to Implementation and Control. MIT Press.
+
+Thrun, S., Burgard, W., & Fox, D. (2005). Probabilistic Robotics. MIT Press.
+
+Christensen, H. I. (2020). A Roadmap for U.S. Robotics. Robotics Roadmap Initiative Report.
+
+
