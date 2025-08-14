@@ -13,4 +13,4 @@ A Python CLI tool that:
 
 ## How to Run
 ```bash
-python Academic Document Analysis and Generation.py
+python Academic_Document_Analysis_and_Generation.py
